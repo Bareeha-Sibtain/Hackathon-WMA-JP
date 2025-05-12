@@ -1,6 +1,9 @@
 .nav-item .nav-link.active{
     color: red;
 }
+.logo{
+    font-size: 22px !important;
+}
 
 .phone-font{
     font-size: 12px;
@@ -20,6 +23,17 @@
     /* text-align: center; */
 }
 
+.recent-projects{
+    margin-left: 250px !important;
+}
+
+.rp-heading{
+    text-align: center;
+    margin-right: 80px !important;
+    justify-content: center;
+    align-items: center;
+}
+
 .card-text{
     font-size: 12px !important;
 }
@@ -32,6 +46,11 @@
     font-size: 12px !important;
 }
 
+.committed-text{
+    text-transform: uppercase;
+}
+
+
 .bg-video{
     background-image: url('images/img_4.jpg');
     background-size: cover;
@@ -39,4 +58,28 @@
     background-position: center;
     width: 400px;
     height: 600px;
+}
+
+.services{
+    border-top: 1px solid lightslategrey;
+    max-width: 250px;
+    margin: 100px;
+}
+
+.foot-text{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}
+
+.list-footer{
+    font-size: 12px;
+    list-style-type: none;
+}
+
+.copyfoot{
+    border-top: 1px solid lightslategrey;
+    border: none;
+    font-size: 10px;
+    color: lightslategrey;
 }
