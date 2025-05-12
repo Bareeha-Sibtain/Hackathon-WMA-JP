@@ -1,0 +1,42 @@
+.nav-item .nav-link.active{
+    color: red;
+}
+
+.phone-font{
+    font-size: 12px;
+}
+
+.bg-img{
+    background-image: url('images/img_4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 400px;
+    height: 600px;
+}
+
+.herotext{
+    font-size: 12px;
+    /* text-align: center; */
+}
+
+.card-text{
+    font-size: 12px !important;
+}
+
+.learn-text{
+    font-size: 12px !important;
+}
+
+.learn-text i{
+    font-size: 12px !important;
+}
+
+.bg-video{
+    background-image: url('images/img_4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 400px;
+    height: 600px;
+}
